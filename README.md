@@ -48,8 +48,8 @@ print(x)
 ```
 
 ## Output:
-![LU](./lu.png)
-![OUTPUT](./output.png)
+![LU](/lu.png)
+![OUTPUT](/output.png)
 
 
 ## Result:
